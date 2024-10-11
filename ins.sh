@@ -28,5 +28,5 @@ cat "cowtext.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "banner.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
 cat "pop.txt"  >> /data/data/com.termux/files/usr/etc/bash.bashrc
 echo " "
-echo "                   "Ready use buddy! | lolcat
+echo "                   "Ready to use buddy! | lolcat
 echo " "
