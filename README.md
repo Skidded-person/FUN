@@ -25,7 +25,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* ` git clone https://github.com/Skidd-person/FUN`
+* ` git clone https://github.com/Skidded-person/FUN`
 * `cd $HOME`
 * `ls`
 * `cd FUN`
